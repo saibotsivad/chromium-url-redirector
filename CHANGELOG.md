@@ -22,10 +22,10 @@ Change categories are:
 ### Removed
 ### Security
 
-## [0.0.0] - {{TODO_CURRENT_DATE}}
+## [0.0.0] - 2025-04-12
 ### Added
 - Created the base project from [saibotsivad/init](https://github.com/saibotsivad/init).
 
-[Unreleased]: https://github.com/saibotsivad/{{TODO_REPO_NAME}}/compare/v0.0.0...HEAD
-[0.0.1]: https://github.com/saibotsivad/{{TODO_REPO_NAME}}/compare/v0.0.0...v0.0.1
-[0.0.0]: https://github.com/saibotsivad/{{TODO_REPO_NAME}}/tree/v0.0.0
+[Unreleased]: https://github.com/saibotsivad/chromium-url-redirector/compare/v0.0.0...HEAD
+[0.0.1]: https://github.com/saibotsivad/chromium-url-redirector/compare/v0.0.0...v0.0.1
+[0.0.0]: https://github.com/saibotsivad/chromium-url-redirector/tree/v0.0.0

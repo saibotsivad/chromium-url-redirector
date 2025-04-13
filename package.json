@@ -1,30 +1,19 @@
 {
-  "name": "{{TODO_REPO_NAME}}",
+  "name": "chromium-url-redirector",
   "version": "0.0.0",
-  "description": "{{TODO_DESCRIPTION}}",
+  "description": "Replicate the Firefox keyword bookmark functionality by going through an API. Sad.",
   "type": "module",
-  "module": "dist/index.js",
-  "unpkg": "dist/index.min.js",
-  "main": "dist/index.cjs",
-  "types": "index.d.ts",
-  "exports": {
-    ".": {
-      "import": "./dist/index.js",
-      "require": "./dist/index.cjs"
-    },
-    "./package.json": "./package.json"
-  },
   "scripts": {
-    "test": "uvu src",
-    "build": "bundt src/index.js",
-    "lint": "eslint"
+    "test": "echo no tests yet"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/saibotsivad/{{TODO_REPO_NAME}}.git"
+    "url": "git+https://github.com/saibotsivad/chromium-url-redirector.git"
   },
   "keywords": [
-    "{{TODO_KEYWORDS}}"
+    "chromium",
+    "firefox",
+    "bookmarks"
   ],
   "author": {
     "name": "Tobias Davis",
@@ -33,10 +22,7 @@
   },
   "license": "SEE LICENSE IN LICENSE.md",
   "bugs": {
-    "url": "https://github.com/saibotsivad/{{TODO_REPO_NAME}}/issues"
+    "url": "https://github.com/saibotsivad/chromium-url-redirector/issues"
   },
-  "homepage": "https://github.com/saibotsivad/{{TODO_REPO_NAME}}",
-  "devDependencies": {
-    "@saibotsivad/eslint-config-saibotsivad": "*"
-  }
+  "homepage": "https://github.com/saibotsivad/chromium-url-redirector"
 }
